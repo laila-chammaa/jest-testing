@@ -3,6 +3,7 @@ used jest to learn unit testing, integration testing and end-to-end testing
 
 3 unit tests, 1 integration test, and 1 e2e test.
 
+++++++++++++
 
  PASS  ./util.test.js
  
